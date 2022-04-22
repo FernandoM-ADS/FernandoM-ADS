@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FernandoM-ADS
+- 👋 Hi, I’m Fernando Maurício
 - 👀 I’m interested in full stack development and cybersecurity
 - 🌱 I’m currently learning everything that encompasses programming
 - 💞️ I’m looking to collaborate on javascript ecosystem projects
