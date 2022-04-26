@@ -1,14 +1,4 @@
-ghstatus.js
 
-const request = require('request');
-request('https://www.githubstatus.com/',  { json: true }, (err, res, body) => {  
-    console.log(body);
-});ghstatus.js
-
-const request = require('request');
-request('https://www.githubstatus.com/',  { json: true }, (err, res, body) => {  
-    console.log(body);
-});
 
 
 - 👋 Hi, I’m Fernando Maurício
