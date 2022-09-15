@@ -18,7 +18,7 @@
   <img align="center" alt="Fernando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fernando-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Fernando-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Fernando-Ether" height="30" width="40" src="https://svgshare.com/s/mhs' ><img src='https://svgshare.com/i/mhs.svg">
+  <img align="center" alt="Fernando-Ether" height="30" width="40" src="https://svgshare.com/i/mhs.svg">
   <img align="center" alt="Fernando-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
   
