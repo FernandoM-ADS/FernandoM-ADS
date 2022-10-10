@@ -5,10 +5,10 @@
 - 📫 Contate-me pelo fernandomauricio.ads@gmail.com
 - 😄 Pronomes: ele/dele
 
-<div align="center">
+/*<div align="center">
   <a href="https://github.com/FernandoM-ADS">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoM-ADS&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div>*/
   
 ##
   
