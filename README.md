@@ -1,7 +1,7 @@
 ## Oi, sou o Fernando Maurício! 👋
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo Java e Node.js
+- 🌱 Aprendendo JavaScript e SQL
 - 📫 Contate-me pelo fernandomauricio.ads@gmail.com
 - 😄 Pronomes: ele/dele
 
