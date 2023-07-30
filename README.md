@@ -1,7 +1,7 @@
 ## Oi, sou o Fernando Maurício! 👋
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo JavaScript e SQL
+- 🌱 Aprendendo Lua e SQL
 - 📫 Contate-me pelo fernandomauricio.ads@gmail.com
 - 😄 Pronomes: ele/dele
 
@@ -14,7 +14,6 @@
   <img align="center" alt="Fernando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fernando-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Fernando-solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
-  <img align="center" alt="Fernando-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
   
 ##
